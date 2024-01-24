@@ -1,0 +1,44 @@
+/* combinator */
+
+/* desendent */
+/* div ul h1{} */
+
+/* adj sibling and child*/
+/* div>ul>h1+li{
+    color: brown;
+} */
+
+/* gen sibling  */
+/* div>ul>h1~li{
+    color: brown;
+} */
+
+
+
+
+/* psuedo classes */
+/* h1{
+    color: black;
+    background-color: black;
+    
+}
+h1:hover{
+    color: aqua;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+input{
+    background-color: brown;
+}
+input:focus{
+    background-color: aqua;
+} */
+/* a:active{
+    color: black;
+    font-size: 50px;
+} */
+ a:visited{
+    color: red;
+} 

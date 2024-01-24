@@ -1,0 +1,14 @@
+h1{
+    font-size: 80px;
+    transition-duration: 5s;
+}
+h1:hover{
+    /* transform: translateX(50px); */
+    /* transform:rotateX(180deg); */
+    /* transform:rotateY(360deg); */
+    /* transform: scaleX(0.1); */
+    transform: scaleY(8);
+    /* transform: scaleZ(2); */
+
+
+}

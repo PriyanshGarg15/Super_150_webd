@@ -1,0 +1,16 @@
+/* element */
+h1{color: brown;}
+/* ids */
+#prakhil{color:yellowgreen;}
+/* class */
+.gupta{color: blue; font-size: large;}
+/* attribute */
+input[type="date"]{
+    background-color: red;
+    color: aqua;
+}
+/* universal */
+*{
+    border: 2px solid white;
+    background-color: black;
+}

@@ -1,0 +1,47 @@
+javascript is the only programming lang.(where we write logic) that is understand by web browser.
+It is a interpreted(line by line),weakly typed,dynamically typed,single threaded programming language.
+> WEAKLY TYPED: where the data type is not fixed
+    let umar=4; or let umar = "chaar"
+> DYNAMICALLY TYPED: at run type data type is defined
+> SINGLE THREADED :ek time pe ek kaam hoga,multiple task not possible.
+BROWSER: Used to send request to server.
+Primitive: 
+     smallest possible division , which cannot be further broken down.(Building block of your program)
+How many primitive do we have in JS?   
+
+    ANS:7
+    1:Number(int and float)
+    2:boolean(T/F)
+    3:String(char/string)
+    4:undefined
+    5:null
+    6:symbol
+    7:Bigint
+VARIABLE: names which hold some value.
+Declarative: 
+    jiski help se variable define krte h.
+    there are 3 types of declaritive:
+    1:var 
+    2:let 
+    3:const
+    eg: Let age=23;
+        Let umar=Akbal
+nomenclature: way of declaraing variable
+    a-z
+    A-Z
+    0-9
+    _(underscore)
+    $(dollar)
+    #can not be started with number
+    #predefined word can not be used
+    #underscore and dollar can be used at starting
+# Way of defining variables:
+>Normal case:
+eg: let venugopaliyer="goa";
+>Camel Case:
+eg: let venuGopalIyer="Readability";
+>Snake Case:
+eg: let venu_gopal_iyer="saanp";
+>kabab case:
+eg: let venu-gopal-iyer="bhokal";(it is not used in JS as '-' not used in variable)
+# Console---->REPL(Read Evaluate Print Loop)

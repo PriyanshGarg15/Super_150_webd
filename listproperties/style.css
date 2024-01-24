@@ -1,0 +1,18 @@
+li{
+    border: 5px solid red;
+    list-style-type: circle;
+    list-style-position: inside;/*by default outside*/
+}
+li{
+    border-style:dashed;
+    border-width:5px ;
+    border-color: red;
+}
+div{border: 2px solid hotpink;
+    margin: 20px;
+    margin-top: 100px;
+    /*margin: top right bottom left clock-bise
+    margin: topBottom leftRight
+    margin:top rihtLeft bottom*/
+    /*same with padding*/
+}

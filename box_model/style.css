@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    border: 20px solid red;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin: 100px;
+    color: aqua;
+    background-color: black;
+    /* visibility: hidden; */
+    /* display: none; */
+}
+span{
+    border: 20px solid red;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 100px;
+    display: inline-block;
+    color: aqua;
+    background-color: black;
+}

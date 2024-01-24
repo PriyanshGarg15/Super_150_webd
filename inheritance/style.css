@@ -1,0 +1,9 @@
+ul>li{
+    color: brown;/*color and font  get inherited */
+    font-size: 25px;
+    border-top: 2px solid green;
+      background-color: black; /*border did not get inherited */
+}
+ul ol ol{
+    color: aqua;
+}

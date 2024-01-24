@@ -1,0 +1,24 @@
+.sld:hover{
+  border: 2px solid sandybrown;
+  
+
+}
+.hvr{
+    background-color: black;
+    color: brown;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+.hvr:hover{
+    width: 100%;
+    /* border-radius: 50%; */
+    transition-duration: 2s;
+    opacity: 0.8;
+    border: 5px solid red;
+    color: blue;
+
+
+}

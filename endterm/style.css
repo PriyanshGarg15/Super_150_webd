@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    
+    position: fixed;
+}
+.band{
+    
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.band div{
+    display: flex;
+    justify-content: space-around;
+}
+.crd{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: black;
+}
+.notee{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav a{
+    color: white;
+    padding: 10px;
+}
+.nav a:hover{
+    color: black;
+    background-color: aliceblue;
+}
+
